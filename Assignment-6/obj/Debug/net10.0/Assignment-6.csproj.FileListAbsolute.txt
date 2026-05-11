@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-6\bin\Debug\net10.0\Assignment-6.exe
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-6\bin\Debug\net10.0\Assignment-6.deps.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-6\bin\Debug\net10.0\Assignment-6.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-6\bin\Debug\net10.0\Assignment-6.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-6\bin\Debug\net10.0\Assignment-6.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-6\obj\Debug\net10.0\Assignment-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-6\obj\Debug\net10.0\Assignment-6.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-6\obj\Debug\net10.0\Assignment-6.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-6\obj\Debug\net10.0\Assignment-6.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-6\obj\Debug\net10.0\Assignment-6.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-6\obj\Debug\net10.0\Assignment-6.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-6\obj\Debug\net10.0\refint\Assignment-6.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-6\obj\Debug\net10.0\Assignment-6.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-6\obj\Debug\net10.0\Assignment-6.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-6\obj\Debug\net10.0\ref\Assignment-6.dll
