@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-8\bin\Debug\net10.0\Assignment-8.exe
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-8\bin\Debug\net10.0\Assignment-8.deps.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-8\bin\Debug\net10.0\Assignment-8.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-8\bin\Debug\net10.0\Assignment-8.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-8\bin\Debug\net10.0\Assignment-8.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-8\obj\Debug\net10.0\Assignment-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-8\obj\Debug\net10.0\Assignment-8.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-8\obj\Debug\net10.0\Assignment-8.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-8\obj\Debug\net10.0\Assignment-8.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-8\obj\Debug\net10.0\Assignment-8.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-8\obj\Debug\net10.0\Assignment-8.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-8\obj\Debug\net10.0\refint\Assignment-8.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-8\obj\Debug\net10.0\Assignment-8.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-8\obj\Debug\net10.0\Assignment-8.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Assignment-8\obj\Debug\net10.0\ref\Assignment-8.dll
