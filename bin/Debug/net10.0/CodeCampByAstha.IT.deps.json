@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CodeCampByAstha.IT/1.0.0": {
+        "runtime": {
+          "CodeCampByAstha.IT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeCampByAstha.IT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
