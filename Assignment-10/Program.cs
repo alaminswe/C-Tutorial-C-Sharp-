@@ -11,29 +11,55 @@ class Assignment_10
         if (!string.IsNullOrEmpty(day))
         {
             day = day.ToLower();
-
-            switch (day)
+            char result = day switch
             {
-                case "monday":
-                case "tuesday":
-                case "wednesday":
-                case "thursday":
-                    Console.WriteLine($"{day} is a weekday.");
-                    break;
+                "monday"=> 't',
+                "tuesday"=> 't',
+                "wednesday"=> 't',
+                "thursday"=> 't',
+                "friday"=> 'o',
+                "saturday"=> 'o',
+                "sunday"=> 't',
+                _=> 'i',
 
-                case "friday":
-                case "saturday":
-                    Console.WriteLine($"{day} is a weekend.");
-                    break;
+            };
 
-                case "sunday":
-                    Console.WriteLine($"{day} is a weekday.");
-                    break;
-
-                default:
-                    Console.WriteLine($"{day} is an invalid day.");
-                    break;
+            if (result == 't')
+            {
+                Console.WriteLine($"{day} is a weekday.");
             }
+            else if( result=='o')
+            {
+               Console.WriteLine($"{day} is a weekend.");
+            }
+            else
+            {
+                Console.WriteLine($"{day} is an invalid day.");
+            }
+
+            //traditional switch
+            // switch (day)
+            // {
+            //     case "monday":
+            //     case "tuesday":
+            //     case "wednesday":
+            //     case "thursday":
+            //         Console.WriteLine($"{day} is a weekday.");
+            //         break;
+
+            //     case "friday":
+            //     case "saturday":
+            //         Console.WriteLine($"{day} is a weekend.");
+            //         break;
+
+            //     case "sunday":
+            //         Console.WriteLine($"{day} is a weekday.");
+            //         break;
+
+            //     default:
+            //         Console.WriteLine($"{day} is an invalid day.");
+            //         break;
+            // }
         }
         else
         {
