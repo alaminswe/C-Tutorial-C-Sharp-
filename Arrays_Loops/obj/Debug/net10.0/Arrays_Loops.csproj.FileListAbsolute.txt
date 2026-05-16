@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Arrays_Loops\obj\Debug\net10.0\Arrays_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Arrays_Loops\obj\Debug\net10.0\Arrays_Loops.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Arrays_Loops\obj\Debug\net10.0\Arrays_Loops.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Arrays_Loops\obj\Debug\net10.0\Arrays_Loops.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Arrays_Loops\obj\Debug\net10.0\Arrays_Loops.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Arrays_Loops\bin\Debug\net10.0\Arrays_Loops.exe
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Arrays_Loops\bin\Debug\net10.0\Arrays_Loops.deps.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Arrays_Loops\bin\Debug\net10.0\Arrays_Loops.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Arrays_Loops\bin\Debug\net10.0\Arrays_Loops.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Arrays_Loops\bin\Debug\net10.0\Arrays_Loops.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Arrays_Loops\obj\Debug\net10.0\Arrays_Loops.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Arrays_Loops\obj\Debug\net10.0\refint\Arrays_Loops.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Arrays_Loops\obj\Debug\net10.0\Arrays_Loops.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Arrays_Loops\obj\Debug\net10.0\Arrays_Loops.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Arrays_Loops\obj\Debug\net10.0\ref\Arrays_Loops.dll

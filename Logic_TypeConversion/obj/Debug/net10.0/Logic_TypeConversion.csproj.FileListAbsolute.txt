@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Logic_TypeConversion\bin\Debug\net10.0\Logic_TypeConversion.exe
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Logic_TypeConversion\bin\Debug\net10.0\Logic_TypeConversion.deps.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Logic_TypeConversion\bin\Debug\net10.0\Logic_TypeConversion.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Logic_TypeConversion\bin\Debug\net10.0\Logic_TypeConversion.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Logic_TypeConversion\bin\Debug\net10.0\Logic_TypeConversion.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Logic_TypeConversion\obj\Debug\net10.0\Logic_TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Logic_TypeConversion\obj\Debug\net10.0\Logic_TypeConversion.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Logic_TypeConversion\obj\Debug\net10.0\Logic_TypeConversion.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Logic_TypeConversion\obj\Debug\net10.0\Logic_TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Logic_TypeConversion\obj\Debug\net10.0\Logic_TypeConversion.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Logic_TypeConversion\obj\Debug\net10.0\Logic_TypeConversion.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Logic_TypeConversion\obj\Debug\net10.0\refint\Logic_TypeConversion.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Logic_TypeConversion\obj\Debug\net10.0\Logic_TypeConversion.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Logic_TypeConversion\obj\Debug\net10.0\Logic_TypeConversion.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Logic_TypeConversion\obj\Debug\net10.0\ref\Logic_TypeConversion.dll

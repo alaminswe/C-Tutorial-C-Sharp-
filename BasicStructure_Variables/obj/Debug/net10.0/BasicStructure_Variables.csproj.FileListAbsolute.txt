@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\BasicStructure_Variables\bin\Debug\net10.0\BasicStructure_Variables.exe
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\BasicStructure_Variables\bin\Debug\net10.0\BasicStructure_Variables.deps.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\BasicStructure_Variables\bin\Debug\net10.0\BasicStructure_Variables.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\BasicStructure_Variables\bin\Debug\net10.0\BasicStructure_Variables.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\BasicStructure_Variables\bin\Debug\net10.0\BasicStructure_Variables.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\BasicStructure_Variables\obj\Debug\net10.0\BasicStructure_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\BasicStructure_Variables\obj\Debug\net10.0\BasicStructure_Variables.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\BasicStructure_Variables\obj\Debug\net10.0\BasicStructure_Variables.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\BasicStructure_Variables\obj\Debug\net10.0\BasicStructure_Variables.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\BasicStructure_Variables\obj\Debug\net10.0\BasicStructure_Variables.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\BasicStructure_Variables\obj\Debug\net10.0\BasicStructure_Variables.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\BasicStructure_Variables\obj\Debug\net10.0\refint\BasicStructure_Variables.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\BasicStructure_Variables\obj\Debug\net10.0\BasicStructure_Variables.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\BasicStructure_Variables\obj\Debug\net10.0\BasicStructure_Variables.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\BasicStructure_Variables\obj\Debug\net10.0\ref\BasicStructure_Variables.dll

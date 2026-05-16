@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Classes_Constructors\bin\Debug\net10.0\Classes_Constructors.exe
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Classes_Constructors\bin\Debug\net10.0\Classes_Constructors.deps.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Classes_Constructors\bin\Debug\net10.0\Classes_Constructors.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Classes_Constructors\bin\Debug\net10.0\Classes_Constructors.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Classes_Constructors\bin\Debug\net10.0\Classes_Constructors.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Classes_Constructors\obj\Debug\net10.0\Classes_Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Classes_Constructors\obj\Debug\net10.0\Classes_Constructors.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Classes_Constructors\obj\Debug\net10.0\Classes_Constructors.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Classes_Constructors\obj\Debug\net10.0\Classes_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Classes_Constructors\obj\Debug\net10.0\Classes_Constructors.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Classes_Constructors\obj\Debug\net10.0\Classes_Constructors.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Classes_Constructors\obj\Debug\net10.0\refint\Classes_Constructors.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Classes_Constructors\obj\Debug\net10.0\Classes_Constructors.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Classes_Constructors\obj\Debug\net10.0\Classes_Constructors.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Classes_Constructors\obj\Debug\net10.0\ref\Classes_Constructors.dll
