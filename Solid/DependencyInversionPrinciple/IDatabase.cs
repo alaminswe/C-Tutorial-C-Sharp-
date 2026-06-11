@@ -1,4 +1,5 @@
 public interface IDatabase
 {
-    string SaveData();
+    void Save(object entity);    // Save 
+    void ShowSaved();            // show saved things
 }
