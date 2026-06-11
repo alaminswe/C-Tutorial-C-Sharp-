@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\OpenClosedPrinciple\bin\Debug\net10.0\OpenClosedPrinciple.exe
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\OpenClosedPrinciple\bin\Debug\net10.0\OpenClosedPrinciple.deps.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\OpenClosedPrinciple\bin\Debug\net10.0\OpenClosedPrinciple.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\OpenClosedPrinciple\bin\Debug\net10.0\OpenClosedPrinciple.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\OpenClosedPrinciple\bin\Debug\net10.0\OpenClosedPrinciple.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\OpenClosedPrinciple\obj\Debug\net10.0\OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\OpenClosedPrinciple\obj\Debug\net10.0\OpenClosedPrinciple.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\OpenClosedPrinciple\obj\Debug\net10.0\OpenClosedPrinciple.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\OpenClosedPrinciple\obj\Debug\net10.0\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\OpenClosedPrinciple\obj\Debug\net10.0\OpenClosedPrinciple.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\OpenClosedPrinciple\obj\Debug\net10.0\OpenClosedPrinciple.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\OpenClosedPrinciple\obj\Debug\net10.0\refint\OpenClosedPrinciple.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\OpenClosedPrinciple\obj\Debug\net10.0\OpenClosedPrinciple.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\OpenClosedPrinciple\obj\Debug\net10.0\OpenClosedPrinciple.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\OpenClosedPrinciple\obj\Debug\net10.0\ref\OpenClosedPrinciple.dll

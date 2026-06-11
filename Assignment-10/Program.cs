@@ -3,39 +3,56 @@ class Assignment_10
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Enter a number between 1 to 10: ");
 
-        Console.WriteLine("Showing Weekday or weekend: ");
-        Console.Write("Enter a day: ");
-        string? day = Console.ReadLine();
-
-        if (!string.IsNullOrEmpty(day))
+        if(int.TryParse(Console.ReadLine(), out int num))
         {
-            day = day.ToLower();
-            char result = day switch
+            string result = num switch
             {
-                "monday"=> 't',
-                "tuesday"=> 't',
-                "wednesday"=> 't',
-                "thursday"=> 't',
-                "friday"=> 'o',
-                "saturday"=> 'o',
-                "sunday"=> 't',
-                _=> 'i',
-
+                int n when n>=1 && n<=10 => n%2==0?"Even Number" : "Odd Number",
+                _ => "Number is out of range"
             };
 
-            if (result == 't')
-            {
-                Console.WriteLine($"{day} is a weekday.");
-            }
-            else if( result=='o')
-            {
-               Console.WriteLine($"{day} is a weekend.");
-            }
-            else
-            {
-                Console.WriteLine($"{day} is an invalid day.");
-            }
+            Console.WriteLine($"{result}");
+
+        }
+        else
+        {
+            Console.WriteLine("Invalid Input.");
+        }
+
+        // Console.WriteLine("Showing Weekday or weekend: ");
+        // Console.Write("Enter a day: ");
+        // string? day = Console.ReadLine();
+
+        // if (!string.IsNullOrEmpty(day))
+        // {
+        //     day = day.ToLower();
+        //     char result = day switch
+        //     {
+        //         "monday"=> 't',
+        //         "tuesday"=> 't',
+        //         "wednesday"=> 't',
+        //         "thursday"=> 't',
+        //         "friday"=> 'o',
+        //         "saturday"=> 'o',
+        //         "sunday"=> 't',
+        //         _=> 'i',
+
+        //     };
+
+        //     if (result == 't')
+        //     {
+        //         Console.WriteLine($"{day} is a weekday.");
+        //     }
+        //     else if( result=='o')
+        //     {
+        //        Console.WriteLine($"{day} is a weekend.");
+        //     }
+        //     else
+        //     {
+        //         Console.WriteLine($"{day} is an invalid day.");
+        //     }
 
             //traditional switch
             // switch (day)
@@ -60,11 +77,11 @@ class Assignment_10
             //         Console.WriteLine($"{day} is an invalid day.");
             //         break;
             // }
-        }
-        else
-        {
-            Console.WriteLine("Nullvalue");
-        }
+        // }
+        // else
+        // {
+        //     Console.WriteLine("Nullvalue");
+        // }
 
         // Console.WriteLine("Switch Uses: ");
 
@@ -95,6 +112,8 @@ class Assignment_10
         //         }
         //         break;
         // }
+
+        Console.ReadKey();
 
     }
 }

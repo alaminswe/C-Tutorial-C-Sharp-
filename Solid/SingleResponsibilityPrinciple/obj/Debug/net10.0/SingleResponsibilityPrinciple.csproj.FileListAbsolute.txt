@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\SingleResponsibilityPrinciple\obj\Debug\net10.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\SingleResponsibilityPrinciple\obj\Debug\net10.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\SingleResponsibilityPrinciple\obj\Debug\net10.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\SingleResponsibilityPrinciple\obj\Debug\net10.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\SingleResponsibilityPrinciple\obj\Debug\net10.0\SingleResponsibilityPrinciple.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\SingleResponsibilityPrinciple\bin\Debug\net10.0\SingleResponsibilityPrinciple.exe
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\SingleResponsibilityPrinciple\bin\Debug\net10.0\SingleResponsibilityPrinciple.deps.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\SingleResponsibilityPrinciple\bin\Debug\net10.0\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\SingleResponsibilityPrinciple\bin\Debug\net10.0\SingleResponsibilityPrinciple.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\SingleResponsibilityPrinciple\bin\Debug\net10.0\SingleResponsibilityPrinciple.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\SingleResponsibilityPrinciple\obj\Debug\net10.0\SingleResponsibilityPrinciple.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\SingleResponsibilityPrinciple\obj\Debug\net10.0\refint\SingleResponsibilityPrinciple.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\SingleResponsibilityPrinciple\obj\Debug\net10.0\SingleResponsibilityPrinciple.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\SingleResponsibilityPrinciple\obj\Debug\net10.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\solid\SingleResponsibilityPrinciple\obj\Debug\net10.0\ref\SingleResponsibilityPrinciple.dll

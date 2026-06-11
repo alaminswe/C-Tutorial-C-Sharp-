@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Solid\DependencyInversionPrinciple\obj\Debug\net10.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Solid\DependencyInversionPrinciple\obj\Debug\net10.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Solid\DependencyInversionPrinciple\obj\Debug\net10.0\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Solid\DependencyInversionPrinciple\obj\Debug\net10.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Solid\DependencyInversionPrinciple\obj\Debug\net10.0\DependencyInversionPrinciple.sourcelink.json
+c:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Solid\DependencyInversionPrinciple\bin\Debug\net10.0\DependencyInversionPrinciple.exe
+c:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Solid\DependencyInversionPrinciple\bin\Debug\net10.0\DependencyInversionPrinciple.deps.json
+c:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Solid\DependencyInversionPrinciple\bin\Debug\net10.0\DependencyInversionPrinciple.runtimeconfig.json
+c:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Solid\DependencyInversionPrinciple\bin\Debug\net10.0\DependencyInversionPrinciple.dll
+c:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Solid\DependencyInversionPrinciple\bin\Debug\net10.0\DependencyInversionPrinciple.pdb
+c:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Solid\DependencyInversionPrinciple\obj\Debug\net10.0\DependencyInversionPrinciple.dll
+c:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Solid\DependencyInversionPrinciple\obj\Debug\net10.0\refint\DependencyInversionPrinciple.dll
+c:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Solid\DependencyInversionPrinciple\obj\Debug\net10.0\DependencyInversionPrinciple.pdb
+c:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Solid\DependencyInversionPrinciple\obj\Debug\net10.0\DependencyInversionPrinciple.genruntimeconfig.cache
+c:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\Solid\DependencyInversionPrinciple\obj\Debug\net10.0\ref\DependencyInversionPrinciple.dll

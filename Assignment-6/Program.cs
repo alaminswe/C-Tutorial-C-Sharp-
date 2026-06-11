@@ -20,5 +20,6 @@ class Assignment_6
         fahrenheit = (1.8*celsius)+32;
         Console.WriteLine($"fahrenheit : {fahrenheit:F2} degress");
 
+
     }
 }
