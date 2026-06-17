@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\StructuralPatternsAdvancedOOPArchitecture\AdapterPattern\bin\Debug\net10.0\AdapterPattern.exe
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\StructuralPatternsAdvancedOOPArchitecture\AdapterPattern\bin\Debug\net10.0\AdapterPattern.deps.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\StructuralPatternsAdvancedOOPArchitecture\AdapterPattern\bin\Debug\net10.0\AdapterPattern.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\StructuralPatternsAdvancedOOPArchitecture\AdapterPattern\bin\Debug\net10.0\AdapterPattern.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\StructuralPatternsAdvancedOOPArchitecture\AdapterPattern\bin\Debug\net10.0\AdapterPattern.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\StructuralPatternsAdvancedOOPArchitecture\AdapterPattern\obj\Debug\net10.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\StructuralPatternsAdvancedOOPArchitecture\AdapterPattern\obj\Debug\net10.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\StructuralPatternsAdvancedOOPArchitecture\AdapterPattern\obj\Debug\net10.0\AdapterPattern.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\StructuralPatternsAdvancedOOPArchitecture\AdapterPattern\obj\Debug\net10.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\StructuralPatternsAdvancedOOPArchitecture\AdapterPattern\obj\Debug\net10.0\AdapterPattern.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\StructuralPatternsAdvancedOOPArchitecture\AdapterPattern\obj\Debug\net10.0\AdapterPattern.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\StructuralPatternsAdvancedOOPArchitecture\AdapterPattern\obj\Debug\net10.0\refint\AdapterPattern.dll
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\StructuralPatternsAdvancedOOPArchitecture\AdapterPattern\obj\Debug\net10.0\AdapterPattern.pdb
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\StructuralPatternsAdvancedOOPArchitecture\AdapterPattern\obj\Debug\net10.0\AdapterPattern.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\CodeCampByAstha.IT\StructuralPatternsAdvancedOOPArchitecture\AdapterPattern\obj\Debug\net10.0\ref\AdapterPattern.dll
